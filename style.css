@@ -70,7 +70,6 @@
         display: block;
         height: 2rem;
         width: 2rem;        
-        max-width: 100%;
       }
       .card__author p{
         font-weight: 700;
